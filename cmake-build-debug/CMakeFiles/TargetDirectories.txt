@@ -1,0 +1,3 @@
+D:/iot/modbusSlave/cmake-build-debug/CMakeFiles/modbusSlave.elf.dir
+D:/iot/modbusSlave/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/iot/modbusSlave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
